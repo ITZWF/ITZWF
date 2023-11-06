@@ -1,8 +1,8 @@
 ### Hi there 👋
-<h3 align="center">A Algorithm Engineer from China.</h3>
+<h3 align="center">An Algorithm Engineer from China.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ITZWF" alt="ZWF" /> </p>
 
-- 🌱 I'm a Algorithm Engineer.
+- 🌱 I'm an Algorithm Engineer.
 - 🔭 I'd like to make some contributions for NLP and perhaps CV projects open source and share some thoughts on my github.
 
 **Languages and Tools:**  
